@@ -1,0 +1,10 @@
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\bin\Debug\Drohne.exe.config
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\bin\Debug\Drohne.exe
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\bin\Debug\Drohne.pdb
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\obj\Debug\Drohne.csprojResolveAssemblyReference.cache
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\obj\Debug\Drohne.Form1.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\obj\Debug\Drohne.Properties.Resources.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\obj\Debug\Drohne.csproj.GenerateResource.Cache
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\obj\Debug\Drohne.csproj.CoreCompileInputs.cache
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\obj\Debug\Drohne.exe
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Drohne\Drohne\obj\Debug\Drohne.pdb
