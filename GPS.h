@@ -11,13 +11,14 @@ class GPS
         GPS(int pin);
         bool status();
         void init();
-        void getGPS();
+        String getGPS();
         
     
     private:
         int _pin;
         TinyGPS gps;
         SoftwareSerial gpsSerial(3,4);//rx,tx 
+        float lat, lon;
 }
 
 #endif
