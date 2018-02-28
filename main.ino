@@ -1,5 +1,6 @@
 #include <SPI.h>
 #include <RF24.h>
+#include "GPS.h"
 
 /* Hardware configuration: Set up nRF24L01 radio on SPI bus plus pins 7 & 8 */
 bool radioNumber = 0;
@@ -100,10 +101,12 @@ void initSerial(int baudRate){
     Serial.begin(9600);
 }
 
+GPS GPS = GPS(1,2);
+
 void setup(){
-    
+    GPS.init(1,2);
 }
 
 void loop(){
-
+    
 }
